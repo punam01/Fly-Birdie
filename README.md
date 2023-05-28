@@ -3,6 +3,12 @@
 This is a simple implementation of the popular game Flappy Bird using the Unity game development engine.
 The objective of the game is to control a bird and navigate it through a series of obstacles without colliding with them.
 ```
+## Video
+
+
+
+https://github.com/punam01/Fly-Birdie/assets/43836363/4334d1c1-e5ad-4f58-b709-efd28dff87ce
+
 
 ## Features 👷‍♀️
 
