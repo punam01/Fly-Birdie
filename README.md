@@ -5,10 +5,7 @@ The objective of the game is to control a bird and navigate it through a series 
 ```
 ## Video
 
-
-
 https://github.com/punam01/Fly-Birdie/assets/43836363/4334d1c1-e5ad-4f58-b709-efd28dff87ce
-
 
 ## Features 👷‍♀️
 
@@ -29,6 +26,10 @@ The bird continuously moves to the right.
 Pass the bird through the openings between the obstacles to earn points.
 Colliding with an obstacle or the ground ends the game.
 ```
+## How to play
+
+Download the TappyBird.exe and start playing
+
 ## Acknowledgments 🙏
 
 This game is inspired by the original Flappy Bird game created by Dong Nguyen.
